@@ -2,66 +2,43 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Blockchain+Engineer&center=true&size=28&color=ff8a65">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Blockchain+Engineer&center=true&size=26&color=ff8a65">
   </a>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+BlockChain+Engineer;Senior+FullStack+Engineer&center=true&size=28&color=54AEFF">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+BlockChain+Engineer;Senior+FullStack+Engineer&center=true&size=26&color=54AEFF">
   </a>
 </h1>
 
 <p align="center">
 
-  <!-- <a href="#">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="#">
-    <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a> -->
+  ## About Me
 
-  <!-- <a href="https://Tarun-Kamboj.github.io">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/kambojtarun">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
-  </a>
-  <a href="mailto:kambojtarun02@gmail.com">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
-  </a>
-  <a href="https://twitter.com/TarunKamboj_">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
-  </a>
-  <a href="https://discord.com/users/724826268645851157">
-    <img height="40px" src="Images/Static/discord.png" title="Discord">
-  </a> -->
-
+I’ m a talented and senior BlockChain developer who has strong can-do attitude and high responsibility. As a seasoned in 7 years, I'm an experienced full stack web developer specializing in MERN stack, Next.js, Vue.js, and Laravel. I have successfully developed and deployed numerous web applications, transforming design concepts into visually appealing and functional interfaces.
+In the past 3 years, I've focused on blockchain technology. Alongside my broad skill set, I have comprehensive knowledge of ICOs, tokenization, and ensuring compliance with regulatory frameworks. I am proficient in developing smart contracts, working with NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols. 
+I have a strong command of Web3JS, EtherJS, Hardhat, and Brownie for building these applications. Additionally, I'm proficient in Solidity, GoLang, Vyper, and Rust.
   
 </p>
 
-- 👈 I have expertise in smart contract and web3 integration.
+ <h4>Followings are my experience and skill sets:</h4>
+✔️ <b>Programming Languages:</b> C++, C#, QT, Electron, GO<br>
+✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
+✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django,  Ruby on Rails, PHP/Laravel, CakePHP, Restful API, Firebase, Docker, Elasticsearch<br>
+✔️ <b>Database:</b> MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
+✔️ <b>Mobile:</b> React Native, Swift, Android<br>
+✔️ <b>DevOps:</b> AWS, Azure, Kubernetes, Docker, OpenShift, CI/CD pipelines<br>
+✔️ <b>CMS:</b> WordPress, Drupal, Joomla, Magento<br>
+✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
+✔️ <b>REST and GraphQL API design</b><br>
+✔️ <b>Languages:</b> Python, Solidity, Rust, C++, GoLang<br>
+✔️ <b>Blockchain and Web3 Development:</b> Web3.js, Node.js, React, Truffle, Ganache, MetaMask, Hardhat<br>
+✔️ <b>Smart Contract integration development:</b> DeFi platforms, Crypto wallets, NFT marketplaces<br>
 
-- 👀 I’m interested in blockchain with Python & Golang world.
-
-- 🌱 Passionate about development and coding.
-
-- 💞️ I’m looking to collaborate on Blockchain/Artificial Intelligence development.
-
-- ⭐ Everyone say that I was born for Flutter and React Native for android & iOS.
+A highly skillful Developer will help you whenever you need.<br>
+<h4><b>Thank you</b></h4>
 
 <h2 align="center">⚡ Stats</h2>
 
-<!-- <p align=center> -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=phantom0109&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
-<!-- </p> -->
 <div class="d-block", align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kittinan&theme=onedark&style=center&column=10)](https://github.com/ryo-ma/github-profile-trophy)
@@ -70,42 +47,138 @@
 ---
 
 </div>
-  
-## About
 
-Senior engineer with 8+ years of experience building up web & mobile app and blockchain infrastructure for several organizations with combined expertise in FinTech, Software Engineering and Blockchain Architecture.
 
-## Languages and Tool
+## Prefered Technicals
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</p> 
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![NodeJS](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=nodedotjs&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![Solidity](https://github.com/msilucifer/msilucifer/blob/master/solidity.png)](https://github.com/phantom0109/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=flat&logo=rust&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat&logo=typescript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/phantom0109/)](https://github.com/phantom0109/)
+###  My Major Skill :  
+  <div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <a href="https://drive.google.com/file/d/1p2Y4xDEixiKGIndXhAvXaa1zQothjKoI/view?usp=sharing" ><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></a>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C#
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
+      <br>jQuery
+    </td>
+  </tr>
+ <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+      </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+      <br>PHP
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+              <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+ </tr>
+ <tr>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
+      <br>WordPress
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".Net" />
+      <br>.Net
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
+      <br>AndroidStudio
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="CloudFlare" />
+      <br>CloudFlare
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+      <br>Go
+    </td>
+     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" />
+      <br>Unity
+    </td>
+ </tr>
+</table>
 <br>
 <br>
-
-## Usage Graph
-
-<div class="d-block", align="center">
-
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Github Readme Activity Stats"><img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=fabianocouto&theme=github-dark-dimmed&radius=6&area=true" alt="fabianocouto" width=99.8% /></a>
-
-</div>
