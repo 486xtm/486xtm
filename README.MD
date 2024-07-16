@@ -1,6 +1,6 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=phantom0109&&style=flat-square)
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+FullStack+Engineer;Senior+Blockchain+Engineer&center=true&size=26&color=ff8a65">
   </a>
@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-<p align="center">
+<p align="center"> -->
 
   ## About Me
 
@@ -23,7 +23,7 @@ I have a strong command of Web3JS, EtherJS, Hardhat, and Brownie for building th
  <h4>Followings are my experience and skill sets:</h4>
 ✔️ <b>Programming Languages:</b> C++, C#, QT, Electron, GO<br>
 ✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
-✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django,  Ruby on Rails, PHP/Laravel, CakePHP, Restful API, Firebase, Docker, Elasticsearch<br>
+✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django, PHP/Laravel, Restful API, Firebase, Docker, Elasticsearch<br>
 ✔️ <b>Database:</b> MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
 ✔️ <b>Mobile:</b> React Native, Swift, Android<br>
 ✔️ <b>DevOps:</b> AWS, Azure, Kubernetes, Docker, OpenShift, CI/CD pipelines<br>
@@ -37,7 +37,7 @@ I have a strong command of Web3JS, EtherJS, Hardhat, and Brownie for building th
 A highly skillful Developer will help you whenever you need.<br>
 <h4><b>Thank you</b></h4>
 
-<h2 align="center">⚡ Stats</h2>
+<!-- <h2 align="center">⚡ Stats</h2>
 
 <div class="d-block", align="center">
 
@@ -181,4 +181,4 @@ A highly skillful Developer will help you whenever you need.<br>
  </tr>
 </table>
 <br>
-<br>
+<br> -->
