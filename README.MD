@@ -16,22 +16,17 @@
 
 I’ m a talented and senior BlockChain developer who has strong can-do attitude and high responsibility. As a seasoned in 7 years, I'm an experienced full stack web developer specializing in MERN stack, Next.js, Vue.js, and Laravel. I have successfully developed and deployed numerous web applications, transforming design concepts into visually appealing and functional interfaces.
 In the past 3 years, I've focused on blockchain technology. Alongside my broad skill set, I have comprehensive knowledge of ICOs, tokenization, and ensuring compliance with regulatory frameworks. I am proficient in developing smart contracts, working with NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols. 
-I have a strong command of Web3JS, EtherJS, Hardhat, and Brownie for building these applications. Additionally, I'm proficient in Solidity, GoLang, Vyper, and Rust.
   
 </p>
 
  <h4>Followings are my experience and skill sets:</h4>
-✔️ <b>Programming Languages:</b> C++, C#, QT, Electron, GO<br>
 ✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
-✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django, PHP/Laravel, Restful API, Firebase, Docker, Elasticsearch<br>
+✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django, PHP/Laravel, Restful API, Firebase, Docker, Elasticsearch,AWS, Firebase, CI/CD pipelines<br>
 ✔️ <b>Database:</b> MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
 ✔️ <b>Mobile:</b> React Native, Swift, Android<br>
-✔️ <b>DevOps:</b> AWS, Azure, Kubernetes, Docker, OpenShift, CI/CD pipelines<br>
 ✔️ <b>CMS:</b> WordPress, Drupal, Joomla, Magento<br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
-✔️ <b>REST and GraphQL API design</b><br>
-✔️ <b>Languages:</b> Python, Solidity, Rust, C++, GoLang<br>
-✔️ <b>Blockchain and Web3 Development:</b> Web3.js, Node.js, React, Truffle, Ganache, MetaMask, Hardhat<br>
+✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat<br>
 ✔️ <b>Smart Contract integration development:</b> DeFi platforms, Crypto wallets, NFT marketplaces<br>
 
 A highly skillful Developer will help you whenever you need.<br>
