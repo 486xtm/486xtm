@@ -21,10 +21,7 @@ In the past 3 years, I've focused on blockchain technology. Alongside my broad s
 
  <h4>Followings are my experience and skill sets:</h4>
 ✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
-✔️ <b>Back-End:</b> Go, Node/Express.js, Python/Django, PHP/Laravel, Restful API, Firebase, Docker, Elasticsearch,AWS, Firebase, CI/CD pipelines<br>
-✔️ <b>Database:</b> MySQL, PostgreSQL, MongoDB, SQLite, Redis<br>
-✔️ <b>Mobile:</b> React Native, Swift, Android<br>
-✔️ <b>CMS:</b> WordPress, Drupal, Joomla, Magento<br>
+✔️ <b>Mobile:</b> React Native <br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
 ✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat<br>
 ✔️ <b>Smart Contract integration development:</b> DeFi platforms, Crypto wallets, NFT marketplaces<br>
