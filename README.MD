@@ -15,7 +15,7 @@
   ## About Me
 
 I’ m a talented and senior BlockChain developer who has strong can-do attitude and high responsibility. As a seasoned in 7 years, I'm an experienced full stack web developer specializing in MERN stack, Next.js, Vue.js, and Laravel. I have successfully developed and deployed numerous web applications, transforming design concepts into visually appealing and functional interfaces.
-In the past 3 years, I've focused on blockchain technology. Alongside my broad skill set, I have comprehensive knowledge of ICOs, tokenization, and ensuring compliance with regulatory frameworks. I am proficient in developing smart contracts, working with NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols. 
+In the past 3 years, I've focused on blockchain technology. Alongside my broad skill set, I have comprehensive knowledge of ICOs, tokenization, and ensuring compliance with regulatory frameworks. I am proficient in developing smart contracts, working with NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols on Ethereum, Solana, Tron and Ton Blockchain. 
   
 </p>
 
@@ -23,7 +23,7 @@ In the past 3 years, I've focused on blockchain technology. Alongside my broad s
 ✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
 ✔️ <b>Mobile:</b> React Native <br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
-✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat<br>
+✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat, Blueprint, FunC<br>
 ✔️ <b>Smart Contract integration development:</b> DeFi platforms, Crypto wallets, NFT marketplaces<br>
 
 A highly skillful Developer will help you whenever you need.<br>
