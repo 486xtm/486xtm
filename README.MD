@@ -14,13 +14,13 @@
 
   ## About Me
 
-I’ m a talented FullStack BlockChain developer who has strong can-do attitude and high responsibility. As a seasoned in 7 years, I'm an experienced full stack web developer specializing in MERN stack, React Native, Next.js, Vue.js, and Laravel. I have successfully developed and deployed numerous web & mobile applications, transforming design concepts into visually appealing and functional interfaces.
-In the past 3 years, I've focused on blockchain technology. Alongside my broad skill set, I have comprehensive knowledge of ICOs, tokenization, and ensuring compliance with regulatory frameworks. I am proficient in developing smart contracts, working with NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols on Ethereum, Solana, Tron and Ton Blockchain. 
+I am a talented FullStack web and blockchain developer with a strong can-do attitude and high sense of responsibility. With 7 years of experience, I am an experienced fullstack web developer specializing in MERN stack, React Native, Next.js, Vue.js, Laravel and PHP. I have successfully developed and deployed numerous web and mobile applications, turning design concepts into visually appealing and functional interfaces. For the past 3 years, I have focused on blockchain technology. Along with a broad skill set, I have comprehensive knowledge of ICOs, tokenization and regulatory framework compliance. I am skilled in developing smart contracts, working on NFT standards such as ERC-721 and ERC-1155, and creating Dex and DeFi protocols on Ethereum, Solana, Tron and Ton blockchain. 
   
 </p>
 
  <h4>Followings are my experience and skill sets:</h4>
-✔️ <b>Front-End:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
+✔️ <b>FrontEnd:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
+✔️ <b>BackEnd:</b>: Node.js, Express.js, Nest.js, Laravel, GoLang <br>
 ✔️ <b>Mobile:</b> React Native, Native, Android, iOS <br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
 ✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat, Blueprint, FunC, Tact<br>
