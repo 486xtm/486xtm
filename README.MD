@@ -20,7 +20,7 @@ I am a talented FullStack web and blockchain developer with a strong can-do atti
 
  <h4>Followings are my experience and skill sets:</h4>
 ✔️ <b>FrontEnd:</b> React/Redux, Next.js, Vue/Nuxt.js, WordPress, HTML5, CSS3, JavaScript/TypeScript, jQuery, Tailwind CSS, Bootstrap<br>
-✔️ <b>BackEnd:</b>: Node.js, Express.js, Nest.js, Laravel, GoLang <br>
+✔️ <b>BackEnd:</b> Node.js, Express.js, Nest.js, Laravel, GoLang <br>
 ✔️ <b>Mobile:</b> React Native, Native, Android, iOS <br>
 ✔️ <b>Version Control and Project Management:</b> JIRA, Trello, GitHub, GitLab<br>
 ✔️ <b>Blockchain and Web3 Development:</b> Web3.js, solidity, Rust, Golang, Vype, Truffle, Ganache, MetaMask, Hardhat, Blueprint, FunC, Tact<br>
